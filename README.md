@@ -1,2 +1,2 @@
 # newspringbootapp
-newspringbootapp
+newspringbootapp prod
